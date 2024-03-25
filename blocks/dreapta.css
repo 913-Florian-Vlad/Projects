@@ -1,0 +1,51 @@
+.dreapta__container-prim
+{
+    border-style: solid;
+    border-color:#2e3337;
+    border-width: 1px;
+    border-radius: 11px;
+    
+}
+
+.dreapta__container-item
+{
+    
+    margin-left:20px;
+    color:#e7e9ea;
+    font-weight:800;
+    font-size:20px;
+}
+
+.dreapta__container-title
+{
+    margin-left:20px;
+    color:#70777b;
+}
+
+.register-button{
+    display:flex;
+    text-align: center;
+    margin-top:10px;
+    margin-left:20px;
+    border-radius: 17px;
+    padding:8px 20px ;
+    font-weight: bolder;
+}
+.register-button-create{
+    display:flex;
+    text-align: center;
+    margin-top:10px;
+    margin-left:20px;
+    border-radius: 17px;
+    padding:9px 20px ;
+    font-weight: bolder;
+}
+.dreapta__button-create
+{
+    margin-bottom: 10px;
+}
+.google-login-icon
+{
+    margin-right: 5px;
+    width: 20px;
+}

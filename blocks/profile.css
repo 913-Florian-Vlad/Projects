@@ -1,0 +1,161 @@
+.profile{
+    border-width: 10px;
+    border-color: grey;
+    display: grid;
+}
+
+.profile__header{
+    color:#e7e9ea;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+
+.profile__posts-number{
+    color:#85949c;
+    display:flex;
+    align-items: center;
+    margin-left:47px;
+    font-size:13px;
+    
+}
+
+.profile__background{
+    background-color:#333738;
+    width: 598px;
+    height: 200px;
+}
+
+.profile__picture{
+    overflow: visible;
+    
+}
+.profile__upper-body-button
+{
+    position: absolute;
+    margin-left: 500px;
+    margin-top:25px;
+    margin-right:25px;
+    
+}
+.profile__upper-body-button-text
+{
+    text-align: right;
+    border-radius: 0%;
+}
+.follow-btn{
+    border-radius: 17px;
+    padding:7px 18px ;
+    font-weight: bolder;
+}
+.profile__upper-body-handle
+{
+    color:#e7e9ea;
+    display: flex;
+    align-items: center;
+    padding:10px;
+    font-size: 20px;
+    margin-top: 80px;
+    font-weight: bolder;
+}
+.profile__description
+{
+    font-size:15px;
+    margin-top:20px;
+    color:#e7e9ea;
+    margin-left:10px;
+}
+.profile__followers
+{
+    margin-top:13px;
+    margin-left:9px;
+    display: flex;
+    font-size:14px;
+}
+.number{
+    color:#e7e9ea;
+    font-weight: bold;
+    
+}
+.number_2{
+    margin-left:20px;
+    color:#e7e9ea;
+    font-weight: bold;
+}
+
+.number__Text{
+    color:#63676c;
+    margin-left:10px;
+}
+.profile_upper-body-handle-icon{
+    height:20px;
+    margin-right:25px;
+    margin-left:5px;
+    filter: brightness(0) saturate(100%) invert(97%) sepia(3%) saturate(2858%) hue-rotate(178deg) brightness(102%) contrast(83%);
+}
+.profile__upper-body-at{
+    color:#85949c;
+    display:flex;
+    align-items: center;
+    margin-left:10px;
+    font-size:15px;
+}
+.profile__picture-item{
+    width:133px;
+    height:133px;
+    margin-top: 133px;
+    margin-left: 30px;
+    border-radius:50%;
+}
+
+.profile__upper-body{
+   color:#e7e9ea;
+}
+
+.profile__upper-body-icon{
+    height:20px;
+    margin-right:25px;
+    filter: brightness(0) saturate(100%) invert(97%) sepia(3%) saturate(2858%) hue-rotate(178deg) brightness(102%) contrast(83%);
+}
+.profile__header-icon{
+    height:20px;
+    margin-right:25px;
+    filter: brightness(0) saturate(100%) invert(97%) sepia(3%) saturate(2858%) hue-rotate(178deg) brightness(102%) contrast(83%);
+}
+.profile__join-date{
+    
+    color:#63676c;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left:10px;
+ 
+}
+.profile__description-icon
+{
+    height:20px;
+    margin-right:10px;
+    filter: brightness(0) saturate(100%) invert(41%) sepia(11%) saturate(235%) hue-rotate(173deg) brightness(92%) contrast(86%);
+}
+
+.profile__middle
+{
+    align-items: center;
+    display:flex;
+    margin-left:125px;
+    margin-top:100px;
+}
+
+.profile__middle-text{
+    color:#e7e9ea;
+    font-size: 31px;
+}
+
+.profile__middle-text-under
+{
+    margin-top:4px;
+    color:#e7e9ea;
+    margin-left:125px;
+    
+}

@@ -1,0 +1,16 @@
+.layout{
+    display:grid;
+    grid-template-columns:316.5px auto 650px ;
+    margin: 0 auto;
+
+}
+.layout__left-sidebar{
+    margin-left:270px;
+}
+.layout__main{
+    margin-left:250px;
+}
+.layout__right-sidebar{
+
+   margin-right:300px;
+}
